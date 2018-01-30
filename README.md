@@ -1,8 +1,8 @@
 # Skype Bots Succinctly
 
-This is the companion repo for [*Skype Bots Succinctly*](https://www.syncfusion.com/ebooks) by Ed Freitas. Published by Syncfusion.
+This is the companion repo for [*Skype Bots Succinctly*](https://www.syncfusion.com/ebooks/skype_bots_succinctly) by Ed Freitas. Published by Syncfusion.
 
-[![cover](https://github.com/SyncfusionSuccinctlyE-Books/Skype-Bots-Succinctly/blob/master/cover.png)](https://www.syncfusion.com/ebooks)
+[![cover](https://github.com/SyncfusionSuccinctlyE-Books/Skype-Bots-Succinctly/blob/master/cover.png)](https://www.syncfusion.com/ebooks/skype_bots_succinctly)
 
 ## Looking for more _Succinctly_ titles?
 
